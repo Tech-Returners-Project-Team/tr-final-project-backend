@@ -1,18 +1,14 @@
-
-
 service: tr-final-project-backend
-
 
 provider:
   name: aws
   runtime: nodejs12.x
 
-
-
 functions:
+  handler:
     handler: handler.app
     events: 
       - http: 
           method: GET
-          path: todos
+          path: destinations/{city}
           cors: true
