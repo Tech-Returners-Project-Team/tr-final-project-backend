@@ -5,10 +5,10 @@ provider:
   runtime: nodejs12.x
 
 functions:
-  handler:
-    handler: handler.app
-    events: 
-      - http: 
-          method: GET
-          path: destinations/{city}
-          cors: true
+   handler:
+     handler: handler.app
+     events: 
+       - http: 
+           method: GET
+           path: destinations/{city_key}
+           cors: true

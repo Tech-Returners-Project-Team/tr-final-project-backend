@@ -8,9 +8,9 @@ const app = express();
 app.use(cors());
 app.use(bodyParser.json());
 
-app.get("/destinations/:city", function(req, res) {
-  const city = req.params.city;
-  var data_filter = destinations.filter(element => element.city === city);
+app.get("/destinations/:city_key", function(req, res) {
+  const city_key = req.params.city_key;
+  var data_filter = destinations.filter(element => element.city_key === city_key);
   res.json(data_filter);
 });
 
