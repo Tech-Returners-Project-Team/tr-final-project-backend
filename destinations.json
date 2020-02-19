@@ -3,36 +3,36 @@
     "city": "Barcelona",
     "city_key": "barcelona",
     "picture": "https://cdn.pixabay.com/photo/2014/04/26/10/02/parc-guell-332390_960_720.jpg",
-    "booking link": "http://www.booking.com/Share-ZYeZ0i"
+    "booking_link": "http://www.booking.com/Share-ZYeZ0i"
   },
   {
     "city": "Paris",
     "city_key": "paris",
     "picture": "https://cdn.pixabay.com/photo/2015/05/15/14/27/eiffel-tower-768501_960_720.jpg",
-    "booking link": "http://www.booking.com/Share-dMDnid"
+    "booking_link": "http://www.booking.com/Share-dMDnid"
   },
   {
     "city": "Agra",
     "city_key": "agra",
     "picture": "https://cdn.pixabay.com/photo/2015/11/07/11/11/taj-mahal-1030894_960_720.jpg",
-    "booking link": "http://www.booking.com/Share-iYucNC"
+    "booking_link": "http://www.booking.com/Share-iYucNC"
   },
   {
     "city": "Orlando",
     "city_key": "orlando",
     "picture": "https://cdn.pixabay.com/photo/2017/08/29/09/26/disney-2692578_960_720.jpg",
-    "booking link": "https://www.booking.com/hotel/us/lake-buena-vista-1500-epcot-resorts-boulevard.en-gb.html"
+    "booking_link": "https://www.booking.com/hotel/us/lake-buena-vista-1500-epcot-resorts-boulevard.en-gb.html"
   },
   {
     "city": "London",
     "city_key": "london",
     "picture": "https://cdn.pixabay.com/photo/2016/01/16/17/13/big-ben-1143631_960_720.jpg",
-    "booking link": "http://www.booking.com/Share-TXM2Tk"
+    "booking_link": "http://www.booking.com/Share-TXM2Tk"
   },
   {
     "city": "Rio_de_Janeiro",
     "city_key": "rio_de_janeiro",
     "picture": "https://cdn.pixabay.com/photo/2019/10/21/15/05/rio-de-janeiro-4566312_960_720.jpg",
-    "booking link": "http://www.booking.com/Share-REWkZA"
+    "booking_link": "http://www.booking.com/Share-REWkZA"
   }
 ]
