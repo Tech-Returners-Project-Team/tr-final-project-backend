@@ -16,6 +16,6 @@ This project uses the following technology:
 The API exposes the following endpoint:
 
 **GET /city**
-https://9b6xx7v56d.execute-api.us-east-1.amazonaws.com/dev/destinations/:city
+https://9b6xx7v56d.execute-api.us-east-1.amazonaws.com/dev/destinations/:city_key
 
 Responds with JSON containing information for particular city.
