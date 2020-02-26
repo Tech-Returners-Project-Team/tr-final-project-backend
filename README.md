@@ -1,6 +1,7 @@
 # Tripspiration Application - Backend
-This is the back end of a Tripspiration Application, built throughout the Tech Returners Your Journey Into Tech course. It is consumed by a front end React application, available [here] (https://github.com/Tech-Returners-Project-Team/tr-final-project-frontend)
+This is the back end of a Tripspiration Application, built throughout the Tech Returners Your Journey Into Tech course. It is consumed by a front end React application, available at: https://github.com/Tech-Returners-Project-Team/tr-final-project-frontend
 
+The hosted version of the application is available here: https://tech-returners-project-team.github.io/tr-final-project-frontend/
 
 
 ## Technology Used
